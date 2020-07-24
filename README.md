@@ -14,3 +14,10 @@ Dialation Image:
 ![](Images/dialation.PNG)
 Eroded Image of dialated image:
 ![](Images/eroded.PNG)
+Chapter 3:
+Resized image:
+![](Images/image_resized.PNG)
+Cropped image:
+![](Images/cropped.PNG)
+
+
