@@ -35,3 +35,14 @@ Horizontal and Vertical stacked images:
 
 ![](Images/stack.PNG)
 
+Chapter 7:
+
+Color detection changing hue,  saturation and value
+
+![](Images/color_detection.PNG)
+
+Color detection from webcam changing hue,  saturation and value
+
+![](Images/color_detection_webcam.gif)
+
+
