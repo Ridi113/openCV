@@ -22,7 +22,16 @@ Cropped image:
 Chapter 4:
 draw shapes:
 ![](Images/shapes.PNG)
+
 Chapter 5:
+
 warped image:
+
 ![](Images/warp.PNG)
+
+Chapter 6:
+
+Horizontal and Vertical stacked images:
+
+![](Images/stack.PNG)
 
