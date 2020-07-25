@@ -52,4 +52,10 @@ Detect contour of  the  shapes and create bounding box
 
 ![](Images/contour.PNG)
 
+Chapter 9:
+
+face detection  using cascademethod
+
+![](Images/face_detection.PNG)
+
 
