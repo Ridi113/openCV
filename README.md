@@ -19,5 +19,8 @@ Resized image:
 ![](Images/image_resized.PNG)
 Cropped image:
 ![](Images/cropped.PNG)
+Chapter 4:
+draw shapes:
+![](Images/shapes.PNG)
 
 
