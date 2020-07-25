@@ -46,3 +46,10 @@ Color detection from webcam changing hue,  saturation and value
 ![](Images/color_detection_webcam.gif)
 
 
+Chapter 8:
+
+Detect contour of  the  shapes and create bounding box
+
+![](Images/contour.PNG)
+
+
